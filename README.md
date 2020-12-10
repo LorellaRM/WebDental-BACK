@@ -2,7 +2,7 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
 <p align="center">
-    <a href="main/Base_datos.png" ><img height="400px"/></a>
+    <a href="https://github.com/LorellaRM/WebDental-BACK/blob/main/Base_datos.png" ><img src="Base_datos.png" height="400px"/></a>
 </p>
 
 ## Clinica Dental Mara
