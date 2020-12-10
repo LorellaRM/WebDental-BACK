@@ -1,9 +1,15 @@
-# Flask Boilerplate for Profesional Development
+# Clinica Dental Mara
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
 <p align="center">
-    <a href=><img height="400px"/></a>
+    <a href="main/Base_datos.png" ><img height="400px"/></a>
 </p>
+
+## Clinica Dental Mara
+
+Esta Web está pensada para una Clinica Dental, en ella se podrán concertar citas y
+obtener información sobre los tratamientos odontológicos.
+
 
 ## Features
 
